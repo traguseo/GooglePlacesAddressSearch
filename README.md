@@ -20,6 +20,6 @@ Recommended Steps:
 1. Install the new package from the link above
 2. Download all of your flows that use the old component into VSCode or your preferred IDE
 3. Replace all instances of `DV_Flow_AP:AddressValidation` with `c:GooglePlacesAddressSearch`
-   4. Remove any references to the old deprecated "TITLE (DO NOT USE)" input field
-4. Deploy all of your flows back to your org
+4. Remove any references to the old deprecated "TITLE (DO NOT USE)" input field
+5. Deploy all of your flows back to your org
 
