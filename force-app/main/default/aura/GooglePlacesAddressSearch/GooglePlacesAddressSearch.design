@@ -1,0 +1,36 @@
+<design:component label="Google Places Address Search">
+    <design:attribute name="titleLabel" label="Component Title Label" 
+                        description="The custom label to use for the component title. The packaged labels will be 'LabelName' but if you want to use your own without a namespace, use 'c.LabelName'." />
+    <design:attribute name="showTitle" label="Show Title" 
+                        description="Show the title text" />
+    <design:attribute name="showAddressFields" label="Show Address Fields" 
+                        description="Show the editable address fields" />
+    <design:attribute name="showCountyField" label="Show County Field" 
+                        description="Show the editable county field" />
+    <design:attribute name="showMap" label="Show Map" 
+                        description="Show the map component for current location and chosen location" />
+    <design:attribute name="isRequired" label="Search Required" description="If true, the user will need to search and select a value before being able to proceed" />
+    <design:attribute name="fieldsRequired" label="Detailed Address Fields Required" description="If true, the user will need to have all the address fields populated to proceed" />
+    
+    <design:attribute name="placeId" label="Place ID" 
+                        description="The Google API Place Id. This will take precedence over Longitude and Latitude Settings" />
+    <design:attribute name="location" label="Location text field value" />
+    <design:attribute name="latitude" label="Latitude" />
+    <design:attribute name="longitude" label="Longitude" />
+    <design:attribute name="premise" label="Premise" />
+    <design:attribute name="subpremise" label="Subpremise" />
+    <design:attribute name="street_number" label="Street Number" />
+    <design:attribute name="route" label="Street" />
+    <design:attribute name="fullStreetAddress" label="Full Street Address" 
+                        description="All the 'street' fields of (Premise, Street Number, Street Name)" />
+    <design:attribute name="locality" label="City" />
+    <design:attribute name="administrative_area_level_1" label="Province/State" />
+    <design:attribute name="administrative_area_level_2" label="County" />
+    <design:attribute name="postal_code" label="Postal Code" />
+    <design:attribute name="country" label="Country" />
+    <design:attribute name="formattedAddress" label="Full Formatted Address" 
+                        description="Location text as seen in the search field after selecting a suggestion" />
+
+    <design:attribute name="countryFilters" label="Country Filters"
+                        description="Comma separated list of Countries to filter the search. Up to a maximum of 5 countries. E.g. US,FR,GB,AU,NZ" />
+</design:component>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>GPAS_API_Unknown_Error</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>API Unknown Error</shortDescription>
+        <value>Failed to get response with Google Places API key. Invalid request.</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_City</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>City</shortDescription>
+        <value>City</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Country</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Country</shortDescription>
+        <value>Country</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Country_Filter_Format</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Country Filter Format</shortDescription>
+        <value>Countries filter format must be a two character country code</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Country_Filter_Limit</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Country Filter Limit</shortDescription>
+        <value>Country filters exceeded maximum limit of 5</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_County</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>County</shortDescription>
+        <value>County</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Current_Location</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Current Location</shortDescription>
+        <value>Current Location</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Default_Address</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Default Address</shortDescription>
+        <value>Default Address</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Enable_Location_Tracking</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Enable Location Tracking</shortDescription>
+        <value>Allow location tracking to show your current position</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Filled_Address_Fields_Required</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Filled Address Fields Required</shortDescription>
+        <value>All Address fields are required. Please fill in all fields available to proceed.</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Input_Address</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Input Address</shortDescription>
+        <value>Address</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Input_Address_Placeholder</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Input Address Placeholder</shortDescription>
+        <value>Search for Address...</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Please_contact_your_admin</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Please contact your admin</shortDescription>
+        <value>Please contact your admin.</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Position_Unavailable</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Position Unavailable</shortDescription>
+        <value>Location information is unavailable</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Postal_Code</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Postal Code</shortDescription>
+        <value>Postal Code</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Province</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Province</shortDescription>
+        <value>State/Province</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Request_Timed_Out</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Request Timed Out</shortDescription>
+        <value>The request to get user location timed out</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Search_and_Address_Field_Required</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Search and Address Field Required</shortDescription>
+        <value>The address field is required. Please search and select a valid location to proceed.</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Search_and_All_Address_Fields_Required</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Search and All Address Fields Required</shortDescription>
+        <value>All address fields are required. Please search and select a valid location and have all fields filled to proceed.</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Selected_Address</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Selected Address</shortDescription>
+        <value>Selected Address</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Street</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Street</shortDescription>
+        <value>Street</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Title</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Title</shortDescription>
+        <value>Address Search</value>
+    </labels>
+    <labels>
+        <fullName>GPAS_Unknown_Error</fullName>
+        <categories>Google Places Address Search</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Unknown Error</shortDescription>
+        <value>An unknown error occurred</value>
+    </labels>
+</CustomLabels>
