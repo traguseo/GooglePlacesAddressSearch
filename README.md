@@ -6,9 +6,9 @@ This component helps you, and your users make filling in addresses a breeze! It 
 
 This version fixes a bug where certain address components would come through as null (blank) and expands functionality to allow for apartments, condos, suites, units, etc.
 
-[Install in Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tgL00000054HVQAY)
+[Install in Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tgL000000BMQDQA4)
 
-[Install in Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tgL00000054HVQAY)
+[Install in Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tgL000000BMQDQA4)
 
 ## Setup Guide
 

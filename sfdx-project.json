@@ -4,17 +4,18 @@
       "path": "force-app",
       "default": true,
       "package": "GooglePlacesAddressSearch",
-      "versionName": "ver 0.1",
-      "versionNumber": "0.1.0.NEXT",
+      "versionName": "ver 1.0",
+      "versionNumber": "1.0.0.NEXT",
       "versionDescription": ""
     }
   ],
   "name": "GooglePlacesAddressSearch",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "64.0",
+  "sourceApiVersion": "65.0",
   "packageAliases": {
     "GooglePlacesAddressSearch": "0HogL0000000QAbSAM",
-    "GooglePlacesAddressSearch@0.1.0-1": "04tgL00000054HVQAY"
+    "GooglePlacesAddressSearch@0.1.0-1": "04tgL00000054HVQAY",
+    "GooglePlacesAddressSearch@1.0.0-1": "04tgL000000BMQDQA4"
   }
 }
